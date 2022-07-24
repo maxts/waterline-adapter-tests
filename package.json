@@ -1,15 +1,15 @@
 {
-  "name": "waterline-adapter-tests",
+  "name": "@maxts/waterline-adapter-tests",
   "description": "Integration tests for waterline adapters",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Cody Stoltman <particlebanana@gmail.com>",
   "dependencies": {
+    "@maxts/waterline-utils": "^1.4.4",
     "@sailshq/lodash": "3.10.2",
-    "async": "2.0.1",
+    "async": "^3.2.4",
     "bluebird": "3.2.1",
     "mocha": "3.0.2",
-    "waterline": "balderdashy/waterline",
-    "waterline-utils": "^1.3.2"
+    "@maxts/waterline": "^0.15.0"
   },
   "keywords": [
     "orm",
