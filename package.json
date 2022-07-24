@@ -9,7 +9,7 @@
     "async": "^3.2.4",
     "bluebird": "3.2.1",
     "mocha": "3.0.2",
-    "@maxts/waterline": "^0.15.0"
+    "@maxts/waterline": "^0.16.0"
   },
   "keywords": [
     "orm",
@@ -21,8 +21,8 @@
     "postgresql",
     "mongo"
   ],
-  "repository": "git://github.com/balderdashy/waterline-adapter-tests.git",
-  "homepage": "http://github.com/balderdashy/waterline-adapter-tests",
+  "repository": "git://github.com/maxts/waterline-adapter-tests.git",
+  "homepage": "http://github.com/maxts/waterline-adapter-tests",
   "main": "./lib/index.js",
   "scripts": {
     "test": "mocha test",
@@ -34,6 +34,6 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/balderdashy/waterline-adapter-tests/issues/new"
+    "url": "https://github.com/maxts/waterline-adapter-tests/issues/new"
   }
 }
